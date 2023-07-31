@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 /*
 ///////////////////////////////////////
@@ -326,7 +326,7 @@ console.log(jonas);
 console.log(`${jonas.firstName} has ${jonas.friends.length} friends, and his best friend is called ${jonas.friends[0]}`);
 
 
-///////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
 // Object Methods
 
 const jonas = {
